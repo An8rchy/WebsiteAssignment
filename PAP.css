@@ -1,0 +1,244 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(57, 48, 82, 0)), #445069;
+  color: #d8e2e6;
+  height: fit-content;
+} 
+* {
+	zoom: 93%
+}
+}
+.workspap {
+  	position: relative;
+  	background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(0, 0, 0, 0)), #445069;
+  	width: 100%;
+  	height: 4867px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 96px;
+  	color: #d8e2e6;
+  	font-family: 'OCR A Extended';
+}
+.paptext {
+  	position: absolute;
+  	top: 460px;
+  	left: 153px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 370px;
+  	height: 107px;
+}
+.teapartylogo-icon {
+  	position: absolute;
+  	top: 1167px;
+  	left: 485px;
+  	width: 940px;
+  	height: 850px;
+  	object-fit: cover;
+}
+.cake3d-icon {
+  	position: absolute;
+  	top: 3126px;
+  	left: 537px;
+  	width: 831px;
+  	height: 723px;
+  	object-fit: cover;
+}
+.gamegameplay-icon {
+  	position: absolute;
+  	top: 4142px;
+  	left: 980px;
+  	width: 715px;
+  	height: 535px;
+  	object-fit: cover;
+}
+.gamestartscreen-icon {
+  	position: absolute;
+  	top: 4142px;
+  	left: 150px;
+  	width: 715px;
+  	height: 535px;
+  	object-fit: cover;
+}
+.cakesketch-icon {
+  	position: absolute;
+  	top: 2311px;
+  	left: 150px;
+  	width: 715px;
+  	height: 535px;
+  	object-fit: contain;
+}
+.cakedigital-icon {
+  	position: absolute;
+  	top: 2311px;
+  	left: 1000px;
+  	width: 715px;
+  	height: 535px;
+  	object-fit: contain;
+}
+.papdisclaimer {
+  	position: absolute;
+  	top: 590px;
+  	left: 78px;
+  	font-size: 48px;
+  	display: inline-block;
+  	font-family: Perpetua;
+  	width: 1500px;
+}
+.triangle-icon {
+  	position: absolute;
+  	top: 452px;
+  	left: 60px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+.triangle2-icon {
+  	position: absolute;
+  	top: 987px;
+  	left: 60px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+.triangle3-icon {
+  	position: absolute;
+  	top: 2131px;
+  	left: 60px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+.triangle4-icon {
+  	position: absolute;
+  	top: 3976px;
+  	left: 60px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+.pap1des {
+  	position: absolute;
+  	top: 763px;
+  	left: 78px;
+  	font-size: 48px;
+  	display: inline-block;
+  	font-family: Perpetua;
+  	width: 1500px;
+}
+.paptext2 {
+  	position: absolute;
+  	top: 995px;
+  	left: 153px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 70px;
+  	height: 107px;
+}
+.paptext3 {
+  	position: absolute;
+  	top: 2139px;
+  	left: 153px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 1070px;
+  	height: 107px;
+}
+.paptext4 {
+  	position: absolute;
+  	top: 3984px;
+  	left: 153px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 370px;
+  	height: 107px;
+}
+
+/*This is the Nav Bar*/
+
+.navbar {
+  	position: fixed;
+  	top: 0px;
+  	background-color: rgba(99, 89, 133, 0);
+  	width: 2020px;
+  	height: 154px;
+  	transform-origin: 0 0;
+}
+.rectangle-div {
+  	position: relative;
+  	background-color: #635985;
+  	width: 100%;
+  	height: 328px;
+  	transform-origin: 0 0;
+	z-index: 9;
+}
+.navbar2ndhalf {
+  	position: absolute;
+  	top: 180px;
+  	left: 0px;
+  	background-color: #393052;
+  	width: 2020px;
+  	height: 151px;
+	z-index: 10;
+}
+.navprogressbar-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: 0px;
+  	width: 1960px;
+  	height: 151px;
+  	object-fit: cover;
+	z-index: 35;
+}
+.backbutton1-icon {
+  	position: absolute;
+  	top: 23px;
+  	left: 0px;
+  	width: 737px;
+  	height: 144px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 30
+}
+.dot-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: -460px;
+  	width: 1126px;
+  	height: 140px;
+  	object-fit: cover;
+	z-index: 103;
+}
+.navstamp-icon {
+  	position: absolute;
+  	top: -10px;
+  	left: 560px;
+  	width: 855px;
+  	height: 197px;
+  	object-fit: cover;
+	z-index: 104;
+}
+.animation-icon {
+  	position: absolute;
+  	top: 28px;
+  	left: 940px;
+  	width: 93px;
+  	height: 132px;
+  	object-fit: cover;
+	z-index: 110;
+}
+.backtothetop-1-icon {
+  	position: absolute;
+  	top: 36px;
+  	left: 1370px;
+  	width: 685px;
+  	height: 115px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 120;
+}

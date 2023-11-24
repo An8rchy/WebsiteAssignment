@@ -1,0 +1,180 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(57, 48, 82, 0)), #445069;
+  color: #d8e2e6;
+  height: fit-content;
+} 
+* {
+	zoom: 93%
+}
+
+/*This is the Main body*/
+
+.workslogos {
+  	position: relative;
+  	background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(0, 0, 0, 0)), #445069;
+  	width: 100%;
+  	height: 4981px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 48px;
+  	color: #d8e2e6;
+  	font-family: Perpetua;
+}
+.logotext {
+  	position: absolute;
+  	top: 467px;
+  	left: 180px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 300px;
+  	height: 137px;
+}
+.logo1-icon {
+  	position: absolute;
+  	top: 933px;
+  	left: 535px;
+  	width: 850px;
+  	height: 542px;
+  	object-fit: cover;
+}
+.logo2-icon {
+  	position: absolute;
+  	top: 3011px;
+  	left: 599px;
+  	width: 721px;
+  	height: 766px;
+  	object-fit: cover;
+}
+.corpo2-icon {
+  	position: absolute;
+  	top: 3810px;
+  	left: 122px;
+  	width: 1525px;
+  	height: 1106px;
+  	object-fit: cover;
+}
+.corpo1-icon {
+  	position: absolute;
+  	top: 1607px;
+  	left: 122px;
+  	width: 1525px;
+  	height: 1106px;
+  	object-fit: cover;
+}
+.logodisclaimer {
+  	position: absolute;
+  	top: 630px;
+  	left: 86px;
+  	display: inline-block;
+  	width: 1753px;
+}
+.logo1des {
+  	position: absolute;
+  	top: 767px;
+  	left: 83px;
+  	display: inline-block;
+  	width: 1700px;
+}
+.logo2des {
+  	position: absolute;
+  	top: 2846px;
+  	left: 83px;
+  	display: inline-block;
+  	width: 1700px;
+}
+.triangle-icon {
+  	position: absolute;
+  	top: 459px;
+  	left: 83px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+
+/*This is the Nav Bar*/
+
+.navbar {
+  	position: fixed;
+  	top: 0px;
+  	background-color: rgba(99, 89, 133, 0);
+  	width: 2020px;
+  	height: 154px;
+  	transform-origin: 0 0;
+}
+.rectangle-div {
+  	position: relative;
+  	background-color: #635985;
+  	width: 100%;
+  	height: 328px;
+  	transform-origin: 0 0;
+	z-index: 9;
+}
+.navbar2ndhalf {
+  	position: absolute;
+  	top: 180px;
+  	left: 0px;
+  	background-color: #393052;
+  	width: 2020px;
+  	height: 151px;
+	z-index: 10;
+}
+.navprogressbar-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: 0px;
+  	width: 1960px;
+  	height: 151px;
+  	object-fit: cover;
+	z-index: 35;
+}
+.backbutton1-icon {
+  	position: absolute;
+  	top: 23px;
+  	left: 0px;
+  	width: 737px;
+  	height: 144px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 30
+}
+.dot-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: -460px;
+  	width: 1126px;
+  	height: 140px;
+  	object-fit: cover;
+	z-index: 103;
+}
+.navstamp-icon {
+  	position: absolute;
+  	top: -10px;
+  	left: 560px;
+  	width: 855px;
+  	height: 197px;
+  	object-fit: cover;
+	z-index: 104;
+}
+.animation-icon {
+  	position: absolute;
+  	top: 28px;
+  	left: 940px;
+  	width: 93px;
+  	height: 132px;
+  	object-fit: cover;
+	z-index: 110;
+}
+.backtothetop-1-icon {
+  	position: absolute;
+  	top: 36px;
+  	left: 1370px;
+  	width: 685px;
+  	height: 115px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 120;
+}
+

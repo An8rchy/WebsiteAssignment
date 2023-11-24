@@ -1,0 +1,192 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(57, 48, 82, 0)), #445069;
+  color: #d8e2e6;
+  height: fit-content;
+} 
+* {
+	zoom: 93%
+}
+
+/*This is the Main Body*/
+
+.worksvideo {
+  	position: relative;
+  	background: radial-gradient(50% 50% at 50% 50%, #393052, rgba(0, 0, 0, 0)), #445069;
+  	width: 100%;
+  	height: 2935px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 48px;
+  	color: #d8e2e6;
+  	font-family: Perpetua;
+}
+.works {
+  	position: relative;
+  	width: 100%;
+  	height: 2869px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 48px;
+  	color: #d8e2e6;
+  	font-family: Perpetua;
+}
+.triangle-icon {
+  	position: absolute;
+  	top: 400px;
+  	left: 64px;
+  	width: 77px;
+  	height: 123px;
+  	object-fit: cover;
+}
+.click-on-any {
+  	margin: 0;
+}
+.for-more-videos {
+  	color: #d8e2e6;
+}
+.here1 {
+  	text-decoration: underline;
+}
+.here {
+  	color: inherit;
+}
+.for-more-videos-please-click {
+  	margin: 0;
+  	color: #44beef;
+}
+.videodisclaimer {
+  	position: absolute;
+  	top: 544px;
+  	left: 82px;
+  	display: inline-block;
+  	width: 1689px;
+  	height: 137px;
+}
+.videotext {
+  	position: absolute;
+  	top: 416px;
+  	left: 163px;
+  	font-size: 96px;
+  	font-family: 'OCR A Extended';
+  	display: inline-block;
+  	width: 370px;
+  	height: 107px;
+}
+.thumbnail1-icon {
+	position: relative;
+  	top: 706px;
+  	left: 82px;
+  	width: 1650px;
+  	height: 1050px;;
+	object-fit: cover;
+	cursor: pointer;
+}
+
+.thumbnail2-icon {
+  	position: absolute;
+  	top: 1806px;
+  	left: 82px;
+  	width: 1650px;
+  	height: 1050px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.works {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1920px;
+  	height: 2869px;
+  	overflow: hidden;
+}
+
+/*This is the NavBar*/
+
+.navbar {
+  	position: fixed;
+  	top: 0px;
+  	background-color: rgba(99, 89, 133, 0);
+  	width: 1920px;
+  	height: 154px;
+  	transform-origin: 0 0;
+}
+.rectangle-div {
+  	position: relative;
+  	background-color: #635985;
+  	width: 100%;
+  	height: 328px;
+  	transform-origin: 0 0;
+	z-index: 9;
+}
+.navbar2ndhalf {
+  	position: absolute;
+  	top: 180px;
+  	left: 0px;
+  	background-color: #393052;
+  	width: 1920px;
+  	height: 151px;
+	z-index: 10;
+}
+.navprogressbar-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: 0px;
+  	width: 1810px;
+  	height: 151px;
+  	object-fit: cover;
+	z-index: 35;
+}
+.backbutton1-icon {
+  	position: absolute;
+  	top: 42px;
+  	left: 50px;
+  	width: 650px;
+  	height: 120px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 30
+}
+.dot-icon {
+  	position: absolute;
+  	top: 185px;
+  	left: -460px;
+  	width: 1126px;
+  	height: 140px;
+  	object-fit: cover;
+	z-index: 103;
+}
+.navstamp-icon {
+  	position: absolute;
+  	top: -10px;
+  	left: 500px;
+  	width: 855px;
+  	height: 197px;
+  	object-fit: cover;
+	z-index: 104;
+}
+.animation-icon {
+  	position: absolute;
+  	top: 28px;
+  	left: 880px;
+  	width: 93px;
+  	height: 132px;
+  	object-fit: cover;
+	z-index: 110;
+}
+.backtothetop-1-icon {
+  	position: absolute;
+  	top: 40px;
+  	left: 1280px;
+  	width: 600px;
+  	height: 120px;
+  	object-fit: cover;
+  	cursor: pointer;
+	z-index: 120;
+}
+
+
+
+
+
