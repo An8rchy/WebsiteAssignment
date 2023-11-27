@@ -141,19 +141,19 @@ a {
 .navbarbottom {
   	position: relative;
   	width: 100%;
-  	height: 2000px; 
+  	height: 200%; 
 	top: -128%;
-	z-index: 102;
 }
 .baranimation {
   	position: sticky;
   	top: 15%;
   	left: -3005px;
   	width: 100%;
-  	height: 139px;
+  	height: 6%;
   	object-fit: cover;
 	transform:  rotate(180deg);
 	z-index: 102;
+	overflow: hidden;
 }
 
 /*Homepage Background CSS*/
@@ -398,6 +398,7 @@ a {
   	width: 369px;
   	height: 369px;
   	object-fit: cover;
+	z-index: 150;
 }
 .dicon {
   	position: relative;
