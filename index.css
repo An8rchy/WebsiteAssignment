@@ -23,6 +23,7 @@ a {
   	overflow: hidden;
 	z-index: 100;
 	background-color: #635985;
+	top: -1%;
 }
 .stamp-icon {
   	position: absolute;
@@ -141,12 +142,12 @@ a {
   	position: relative;
   	width: 100%;
   	height: 2000px; 
-	top: -135%;
+	top: -128%;
 	z-index: 102;
 }
 .baranimation {
   	position: sticky;
-  	top: 20%;
+  	top: 15%;
   	left: -3005px;
   	width: 100%;
   	height: 139px;
