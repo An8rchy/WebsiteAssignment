@@ -85,7 +85,7 @@ a {
   	font-size: 48px;
   	color: #d8e2e6;
   	font-family: 'OCR A Extended';
-	top: 225px;
+	top: 30%;
 }
 .boxvid-icon {
   	position: absolute;
@@ -141,12 +141,12 @@ a {
   	position: relative;
   	width: 100%;
   	height: 2000px; 
-	top: -1400px;
-
+	top: -130%;
+	z-index: 102;
 }
 .baranimation {
   	position: sticky;
-  	top: 206px;
+  	top: 20%;
   	left: -3005px;
   	width: 100%;
   	height: 139px;
@@ -161,7 +161,7 @@ a {
   	position: relative;
   	background-color: #635985;
   	width: 100%;
-  	height: 937px;
+  	height: 1000px;
 	top: -0px;
 	z-index: 0
 }
@@ -177,7 +177,7 @@ a {
   	font-size: 128px;
   	color: #d8e2e6;
   	font-family: 'OCR A Extended';
-	top: 1100px;
+	top: 105%;
 }
 .trianglebig {
   	position: absolute;
@@ -248,7 +248,7 @@ a {
   	font-size: 36px;
   	color: #d8e2e6;
   	font-family: Perpetua;
-	top: 1000px;
+	top: 95%;
 }
 .triangle-icon {
   	position: absolute;
@@ -291,7 +291,7 @@ a {
   	font-size: 128px;
   	color: #d8e2e6;
   	font-family: 'OCR A Extended';
-	top: 1050px;
+	top: 100%;
 }
 .workstitle {
   	position: absolute;
@@ -332,16 +332,16 @@ a {
 }
 .logostext {
   	position: absolute;
-  	top: 557px;
-  	left: 944px;
+  	top: 37%;
+  	left: 47%;
   	display: inline-block;
   	width: 394px;
   	height: 132px;
 }
 .box-icon1 {
   	position: absolute;
-  	top: 210px;
-  	left: 1338px;
+  	top: 15%;
+  	left:69%;
   	width: 467px;
   	height: 528px;
   	object-fit: cover;
@@ -367,49 +367,49 @@ a {
 }
 .dtext {
   	position: absolute;
-  	top: 1024px;
-  	left: 944px;
+  	top: 67%;
+  	left: 47%;
   	display: inline-block;
   	width: 394px;
   	height: 269px;
 }
 .box-icon3 {
   	position: absolute;
-  	top: 804px;
-  	left: 1338px;
+  	top: 53%;
+  	left: 69%;
   	width: 467px;
   	height: 528px;
   	object-fit: cover;
   	cursor: pointer;
 }
 .papicon {
-  	position: absolute;
-  	top: 850px;
-  	left: 150px;
+  	position: relative;
+  	top: 0%;
+  	left: 0%;
   	width: 396px;
   	height: 358px;
   	object-fit: cover;
 }
 .videoicon {
-  	position: absolute;
-  	top: 244px;
-  	left: 164px;
+  	position: relative;
+  	top: 0%;
+  	left: 0%;
   	width: 369px;
   	height: 369px;
   	object-fit: cover;
 }
 .dicon {
-  	position: absolute;
-  	top: 885px;
-  	left: 1389px;
+  	position: relative;
+  	top: 0%;
+  	left: 0%;
   	width: 366px;
   	height: 366px;
   	object-fit: cover;
 }
 .logoicon {
-  	position: absolute;
-  	top: 291px;
-  	left: 1389px;
+  	position: relative;
+  	top: 0%;
+  	left: 0%;
   	width: 366px;
   	height: 366px;
   	object-fit: cover;
@@ -419,14 +419,21 @@ a {
   	width: 0px;
   	height: 1000px;
   	overflow: hidden;
-	top: 800px;
+	top: 63%;
 }
 .hyperlinkContacts {
   	position: absolute;
   	width: 0px;
   	height: 1000px;
   	overflow: hidden;
-	top: 1400px;
+	top: 130%;
 }
+.WorkPage {
+  	position: absolute;
+  	width: 0px;
+  	height: 1000px;
+  	overflow: hidden;
+	top: 160%;
+}	
 
 
